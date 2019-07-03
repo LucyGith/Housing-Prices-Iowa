@@ -1,7 +1,7 @@
 # Housing-Prices-Iowa
 Exploring data set and find a good model of housing prices based on house characteristics.
 
-This project is a practice of data exploration and modeling by analyzing a given dataset and running multiple regressions using machine learning. The goal is to build a predictive model of housing prices in Ames, Iowa. 
+This project is a subject of data exploration and modeling by analyzing a given dataset and running multiple regressions using machine learning. The goal is to build a predictive model of housing prices in Ames, Iowa. 
 The house price dataset was from one of the Kaggle competitions “House Prices: Advanced Regression Techniques” and was compiled by Dean De Cock. 
 
 <h2> Data Preparation, and Exploration </h2>
